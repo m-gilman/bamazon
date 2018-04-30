@@ -23,7 +23,7 @@ Customer is then presented with the store's inventory and asked which product th
 The store will also ask them how many of the items they wish to purchase.
 ![Image of Storefront](./Screenshots/howMany.png)
 
-4. The customer enters the quantity of the product they wish to purchase. They cannot purchase more than the store has in stock
+4. The customer enters the quantity of the product they wish to purchase. They cannot purchase more than the store has in stock.
 ![Image of Storefront](./Screenshots/invalidQty.png)
 
 5. Upon entering a valid quantity, the customer is presented with their Purchase Receipt detailing the total sum of their purchae. 
