@@ -39,3 +39,7 @@ The customer is also informed of the remaining quantity of that item and the tra
 
 ![Image of Updated Database](./Screenshots/reInitialize.png)
 
+### Side Note
+Here is an image of my database running in mySQL
+
+![Image of MySQL Database](./Screenshots/database.png)
